@@ -1,4 +1,4 @@
-#K-Nearest Neighbors (KNN) for Iris Classification
+# K-Nearest Neighbors (KNN) for Iris Classification
 
 ### Project Objective
 The objective of this project is to implement and understand the K-Nearest Neighbors (KNN) algorithm for a classification problem. The model is trained on the classic Iris dataset to classify flowers into one of three species.
